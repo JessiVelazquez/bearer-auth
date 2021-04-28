@@ -67,4 +67,4 @@ To run tests, start the server and run ```npm run test``` at the terminal to run
 
 ## Contributors
 
-Pair programming partners/collaborators were Dan Engel, Lydia Minehan-Tubic,
+Pair programming partners/collaborators were Dan Engel, Lydia Minehan-Tubic.
